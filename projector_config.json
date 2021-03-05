@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "cluster_embeddings",
+      "tensorShape": [
+        563,
+        50
+      ],
+      "tensorPath": "https://github.com/renehao/public_data/component_embeddings.txt",
+      "metadataPath": "https://github.com/renehao/public_data/component_top10.tsv"
+    }
+  ]
+}
